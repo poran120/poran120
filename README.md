@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Jack! 👋  
+🚀 Full-Stack Developer | ⚛️ React | 🔥 Next.js | 🏆 Open Source  
 
-<!--
-**poran120/poran120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🏢 I’m currently working at a software agency  
+- 🔥 2+ years of experience in **React, Next.js, Tailwind, Node.js**  
+- 📌 Learning Backend Development (Node.js, Express, MongoDB)  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack  
+**Frontend:** React, Next.js, TailwindCSS, Bootstrap  
+**Backend:** Node.js, Express, MongoDB  
+**Tools:** Git, GitHub, Vercel, Postman  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
