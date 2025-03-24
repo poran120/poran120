@@ -10,10 +10,12 @@
 
 ## 🛠 Tech Stack  
 
-### **Frontend**  
-✅ React.js, Next.js, Remix, Redux, Zustand, JavaScript, TypeScript  
-✅ Tailwind CSS, Bootstrap  
-✅ UI/UX Design (Basic), Figma, Adobe Illustrator, Canva  
+### **Frontend**
+- ✅ React.js, Next.js, Remix, Redux, Zustand, JavaScript, TypeScript  
+- ✅ Tailwind CSS, Bootstrap  
+- ✅ Component Libraries: Ant Design, DaisyUI, ShadCN, Material UI  
+- ✅ UI/UX Design (Basic), Figma, Adobe Illustrator, Canva  
+
 
 ### **Backend**  
 ✅ Node.js, Express.js, MongoDB, Mongoose  
@@ -36,7 +38,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poran120&show_icons=true&theme=solarized-light&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poran120&show_icons=true&theme=solarized-light&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -44,8 +46,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poran120&layout=donut&theme=vue&hide_border=true&langs_count=10" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poran120&layout=compact&theme=vue&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
+
 
 
  
