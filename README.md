@@ -4,7 +4,8 @@
 💻 Passionate about building scalable and interactive web applications.  
 
 ## 🔥 About Me  
-- 🎯 2+ years of experience in **React.js & Next.js**  
+- 🎯 2+ years of experience in **React.js & Next.js**
+- 🧠 Hands-on experience building **SaaS**, **POS**, and **E-commerce** applications
 - 🚀 Always eager to learn and tackle new coding challenges  
 - 🎨 Passionate about UI/UX & clean design  
 
@@ -33,7 +34,7 @@
 🎓 Studying at **Honors 1st Year, Noakhali Govt College**  
 
 ## 🌍 Interests & Hobbies  
-🌍 Traveling | 🍔 Food Lover | 💡 Helping People | 🏍️ Bike Riding  
+🌍 Traveling | 🍔 Food Lover | 💡 Helping People | 🏍️ Bike Riding |🏏 Cricket Enthusiast | ⚽ Sports Lover
 
 ## 📊 GitHub Stats  
 
