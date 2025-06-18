@@ -1,4 +1,4 @@
-# Hi there, I'm Jack! 👋  
+# Hi there, I'm Jaker! 👋  
 
 🚀 **Full-Time Frontend Developer | Part-Time MERN Stack Developer**  
 💻 Passionate about building scalable and interactive web applications.  
