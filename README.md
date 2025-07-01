@@ -4,7 +4,7 @@
 💻 Passionate about building scalable and interactive web applications.  
 
 ## 🔥 About Me  
-- 🎯 3 years of experience in **React.js & Next.js**
+- 🎯 4 years of experience in **React.js & Next.js**
 - 🧠 Hands-on experience building **SaaS**, **POS**, and **E-commerce** applications
 - 🚀 Always eager to learn and tackle new coding challenges  
 - 🎨 Passionate about UI/UX & clean design  
