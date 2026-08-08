@@ -132,8 +132,8 @@ Noakhali Govt College
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: https://www.poranfolio.space  
-💼 LinkedIn: https://www.linkedin.com/in/poran120/  
+🌐 Portfolio: https://poran-portfolio.up.railway.app  
+💼 LinkedIn: https://www.linkedin.com/in/poranfd120/  
 🐦 Twitter/X: https://x.com/jackfd120  
 📝 Dev.to: https://dev.to/jackfd120  
 
